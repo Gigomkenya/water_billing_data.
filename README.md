@@ -1,0 +1,4 @@
+--> access mockaroo.com to get the mock data to work on.
+--> open the website then go to generate files using AI.
+--> generate your type of data of data give it a name and click on generate date.
+-->
