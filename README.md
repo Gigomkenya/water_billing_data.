@@ -1,4 +1,11 @@
---> access mockaroo.com to get the mock data to work on.
+--> access your data from the link provided.
 --> open the website then go to generate files using AI.
 --> generate your type of data of data give it a name and click on generate date.
--->
+-->Import the data to github repository.
+--> get the url and copy it in your worksheet nd import it using the link .
+-->Give your data a variable name.
+--> convert your data to json()  because JSON is a common format for storing and exchanging data between systems, applications, and APIs.
+-->check the data type
+--> convert the data to dataframe to make it easier to organize analyze,clean and manipulate.
+--> convert datato csv.
+print the final copy and save.
